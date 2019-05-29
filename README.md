@@ -1,4 +1,4 @@
-# AllegroStarterProject
+# Allegro Starter Project
 In order to setup Allegro 4.4.2 with Visual Studio, follow the given steps:
 1. Download Allegro binaries from http://cdn.allegro.cc/file/library/allegro/4.4.2/allegro-4.4.2-msvc-10.0.zip
 2. Extract the files to C:\ such that folder tree looks like:
